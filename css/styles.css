@@ -127,7 +127,7 @@ body {
 	border-top-right-radius: 100%;
 }
 .game__pad--bl {
-	background-color: var(--clr-light-yellow);
+	background-color: var(--clr-normal-yellow);
 	border-bottom-left-radius: 100%;
 }
 .game__pad--br {
